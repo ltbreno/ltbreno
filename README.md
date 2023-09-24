@@ -1,24 +1,36 @@
 ### Eu sou o Breno Lopes !!!
 
-- 🌱 Estudante de analise e desenvolvimento de sistemas
-- 💬 Me fale sobre codigos! Quero codar o maximo!
-- 😄 Pronouns: ele/dele
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  </div>
-  
-  ##
-   
-<div> 
- 
+-  Estudante de analise e desenvolvimento de sistemas
+-  Atualmente no 2 periodo!
+<!-- Head -->
+<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Olá! Eu sou Thayná Tolentino</h2>
 
- <a href="https://discord.gg/cNPtC5FFFF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:brenosas2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/breno-lopes-14b7b8202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <!-- GitHub section -->
+
+ ##  Status do GitHub 
+ 
+ <div>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaynarlt&show_icons=true&theme=cobalt)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarlt&layout=compact&langs_count=7&theme=cobalt" alt="Gift's language" height="187px"  width="350px"/>
+</div>
+
+<!-- GitHub section: END -->
+
+
+ ##  Linguagens de programação em andamento...
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+  
+  
+  
+  ##  Redes:
+<div>  
+  <a href = "mailto:tatarlt7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thaynarlt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
