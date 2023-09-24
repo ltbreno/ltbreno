@@ -3,15 +3,15 @@
 -  Estudante de analise e desenvolvimento de sistemas
 -  Atualmente no 2 periodo!
 <!-- Head -->
-<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Olá! Eu sou Thayná Tolentino</h2>
+<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Olá! Eu sou o Breno Lopes !!!</h2>
 
  <!-- GitHub section -->
 
  ##  Status do GitHub 
  
  <div>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaynarlt&show_icons=true&theme=cobalt)" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarlt&layout=compact&langs_count=7&theme=cobalt" alt="Gift's language" height="187px"  width="350px"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ltbreno&show_icons=true&theme=cobalt)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltbreno&layout=compact&langs_count=7&theme=cobalt" alt="Gift's language" height="187px"  width="350px"/>
 </div>
 
 <!-- GitHub section: END -->
