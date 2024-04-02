@@ -1,6 +1,6 @@
 ### Eu sou o Breno Lopes !!!
 
--  Estudante de analise e desenvolvimento de sistemas
+-  Estudante de Sistemas para Internet!
 -  Atualmente no 3 periodo!
 <!-- Head -->
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Olá! Eu sou o Breno Lopes !!!</h2>
