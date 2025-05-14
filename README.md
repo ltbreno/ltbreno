@@ -3,8 +3,8 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Sistemas para Internet no centro universitario Uniesp.
-- 💼 Trabalhando como Freelancer.
-- 🌱 Aprendendo mais sobre NextJS e NestJS.
+- 💼 Trabalhando @BigDataHealth.
+- 🌱 Aprendendo mais sobre NestJS.
 
 ## Minhas Skills
 
