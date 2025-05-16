@@ -1,10 +1,10 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando mais tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Sistemas para Internet no centro universitario Uniesp.
 - 💼 Trabalhando @BigDataHealth.
-- 🌱 Aprendendo mais sobre NestJS.
+- 🌱 Especialista sobre NestJS.
 
 ## Minhas Skills
 
