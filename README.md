@@ -34,8 +34,8 @@ Sou um desenvolvedor apaixonado por criar soluções escaláveis e performática
 
 <div align="center">
   <a href="https://github.com/ltbreno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ltbreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltbreno&layout=compact&theme=dracula"/>
   </a>
 </div>
 
