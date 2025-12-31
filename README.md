@@ -3,7 +3,6 @@
 ## 🚀 Sobre Mim
 Sou um desenvolvedor apaixonado por criar soluções escaláveis e performáticas. Atualmente focado no ecossistema **Node.js/TypeScript** e explorando a eficiência do **Go**. Tenho experiência sólida em construção de APIs, arquitetura de microsserviços e interfaces modernas.
 
-- 🔭 Atualmente trabalhando em: **Inova&Bussiness**
 - 🌱 Estudando: **System Design e Arquitetura Limpa**
 - 💬 Pergunte-me sobre: **Backend, NestJS e Otimização de Banco de Dados**
 - 📫 Contato: **brenosas2003@gmail.com**
